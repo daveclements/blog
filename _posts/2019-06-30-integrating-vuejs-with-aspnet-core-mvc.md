@@ -64,7 +64,7 @@ In this file, add the following:
 const path = require('path');
 const del = require('delete');
 
-const webapp = path.resolve(__dirname, '../Postalzoom');
+const webapp = path.resolve(__dirname, '../Mvc.App');
 const wwwroot = `${webapp}/wwwroot`;
 
 del(`${wwwroot}/*.hot-update.*`, { force: true },
