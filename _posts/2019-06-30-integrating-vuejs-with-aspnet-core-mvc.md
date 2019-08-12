@@ -123,7 +123,7 @@ Finally, we pass our options to module.exports where it will be merged with othe
 ## The cshtml template
 Now we have our configuration, we need need to create the template file that we'll use to generate the chstml files
 
-In the src folder of the Node app, create an `index.template.cshtml` file and add the following code to it
+In the src folder of the Node app, create an `template.cshtml` file and add the following code to it
 
 {% highlight html %}
 @section head
