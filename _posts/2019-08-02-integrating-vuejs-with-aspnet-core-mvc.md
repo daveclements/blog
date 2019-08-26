@@ -2,6 +2,7 @@
 layout: post
 title:  "Integrating Vue.js with ASP.NET Core MVC"
 date:   2019-08-02 13:37:44 +0100
+comments: true
 ---
 
 I'm a big fan of both Vue.js and ASP.NET Core MVC and wanted to see if I could create a tighter integration between the two
